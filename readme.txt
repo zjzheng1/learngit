@@ -2,4 +2,6 @@
 add new line
 
 add new line in origin
-Creating a new branch is quick & simple.
+
+creating a new branch is quick and simple
+
